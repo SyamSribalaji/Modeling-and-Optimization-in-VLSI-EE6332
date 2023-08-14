@@ -1,6 +1,6 @@
 # Modeling and Optimization in VLSI (EE6332)
 
-Welcome to my repository showcasing my work on digital circuit optimization using gate sizing algorithms. This project focuses on enhancing the performance of digital circuits by optimizing critical metrics such as delay, area, and power consumption.
+Welcome to my repository showcasing our work (team of 2) on digital circuit optimization using gate sizing algorithms. This project focuses on enhancing the performance of digital circuits by optimizing critical metrics such as delay, area, and power consumption.
 
 ## How It Works
 
